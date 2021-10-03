@@ -1,5 +1,4 @@
-<h1 align="center">Hello there :) </h1>
-<p align="center"><b>Welcome to my profile! 🚀</b></p>
+<h1 align="center">Hello there, call me Vini :) </h1>
   
 <p>I have an enthusiasm for web development especially using the modern tools to solve problems.</p>  
 
