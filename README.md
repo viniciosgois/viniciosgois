@@ -2,9 +2,9 @@
   
 <p>I have an enthusiasm for web development especially using the modern tools to solve problems.</p>  
 
-- 📫 How to reach me: viniciosgois17@gmail.com
+- You can reach me at viniciosgois17@gmail.com I'm always happy to receive email.
 
-- you can also find me on [![LinkedIn Badge](https://img.shields.io/badge/linkedin--%2300EBEB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicios-gois-5b695621a/)
+- You can also find me on [LinkedIn](https://www.linkedin.com/in/vinicios-gois-5b695621a/) .
 
 <h2 align="center">Tech & Tools Preference</h2>
 
