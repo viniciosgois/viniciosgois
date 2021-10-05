@@ -4,7 +4,7 @@
 
 - 📫 How to reach me: viniciosgois17@gmail.com
 
-[![LinkedIn Badge](https://img.shields.io/badge/linkedin--%2300EBEB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicios-gois-5b695621a/)
+- you can also find me on [![LinkedIn Badge](https://img.shields.io/badge/linkedin--%2300EBEB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicios-gois-5b695621a/)
 
 <h2 align="center">Tech & Tools Preference</h2>
 
