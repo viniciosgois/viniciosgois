@@ -6,3 +6,7 @@
 
 - You can also find me on [LinkedIn](https://www.linkedin.com/in/vinicios-gois-5b695621a/) .
 
+> #AlwaysLearning
+
+> #OPENTOWORK
+
